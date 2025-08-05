@@ -1,1 +1,1 @@
-# ejemplo-git
+# Este archivo es un ejemplo de cóm clonar un repo
